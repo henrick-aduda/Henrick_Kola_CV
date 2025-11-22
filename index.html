@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Curriculum Vitae</title>
+    <meta name="description" content="Professional CV and Portfolio">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="cursor-dot" id="cursor-dot"></div>
+    <div class="cursor-outline" id="cursor-outline"></div>
+
+    <nav class="navbar">
+        <div class="container">
+            <a href="#" class="logo">CV.</a>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><button id="theme-toggle" class="theme-btn"><i class="fas fa-moon"></i></button></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero" id="about">
+        <div class="container">
+            <div class="hero-content">
+                <span class="greeting">Hello, I'm</span>
+                <h1 class="name">Henrick Aduda Kola</h1>
+                <h2 class="title">PhD Candidate & Researcher</h2>
+                <p class="bio">
+                    Dynamic and detail-oriented Graduate Teaching Assistant and PhD Candidate at the University of North
+                    Dakota with a strong background in bioinformatics, neurovascular biology, and computational image
+                    analysis. Experienced in RNA-seq data processing, vascular morphometrics, and machine learning
+                    applications in biomedical imaging.
+                </p>
+                <div class="hero-btns">
+                    <a href="#contact" class="btn btn-primary">Contact Me</a>
+                    <a href="Kola_Henrick_CV_Nov_21_2025_Final.pdf" class="btn btn-outline" target="_blank">Download CV
+                        <i class="fas fa-download"></i></a>
+                </div>
+                <div class="social-links">
+                    <a href="https://github.com/henrick-aduda" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://linkedin.com/in/henrick-kola" target="_blank"><i
+                            class="fab fa-linkedin-in"></i></a>
+                    <a href="mailto:henrick.kola@und.edu"><i class="fas fa-envelope"></i></a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="img-container">
+                    <img src="profile.jpg" alt="Henrick Aduda Kola" class="profile-img">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="experience" id="experience">
+        <div class="container">
+            <h2 class="section-title">Work Experience</h2>
+            <div class="timeline">
+                <!-- Job 1 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">Aug 2022 - Present</div>
+                    <div class="timeline-content">
+                        <h3>Graduate Teaching Assistant</h3>
+                        <h4>University of North Dakota</h4>
+                        <ul>
+                            <li>Assisted in instruction for Physiology of Organs and Systems, Histology, Cell Biology,
+                                Developmental Biology, and Introduction to Biology (courses for Majors and non-Majors).
+                            </li>
+                            <li>Prepared laboratory equipment and materials; guided students through physiological
+                                experiments and data interpretation.</li>
+                            <li>Graded laboratory assignments, providing constructive feedback to enhance analytical and
+                                critical thinking skills.</li>
+                            <li>Facilitated active learning assignments founded in primary literature, including support
+                                for development of and assessment for student presentations on course-based projects.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Job 2 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">May 2025 - Aug 2025</div>
+                    <div class="timeline-content">
+                        <h3>Graduate Research Assistant</h3>
+                        <h4>University of North Dakota</h4>
+                        <ul>
+                            <li>Developed a transmission electron microscopy (TEM)-based analysis pipeline to conduct
+                                nanoparticle morphometric quantification, incorporating pixel-based classification using
+                                Trainable Weka Segmentation and Python-based image analysis of size, shape, and
+                                eccentricity metrics.</li>
+                            <li>Collaborated on a research project titled, "Nanozymes: Promising Frontiers in Detection
+                                and Nanoremediation of Environmental Pollutants". Conducted primary literature
+                                meta-analysis and wrote the "Computational Approaches" section.</li>
+                            <li>Designed the publication's graphical abstract illustrating experimental and
+                                computational integration.</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Job 3 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">May 2024 - Aug 2024</div>
+                    <div class="timeline-content">
+                        <h3>Graduate Research Assistant</h3>
+                        <h4>University of North Dakota</h4>
+                        <ul>
+                            <li>Performed a bioinformatics database search for nanozymes developed for use in detecting
+                                or assessing metabolic disorders (GEO database).</li>
+                            <li>Conducted extensive literature search associated with nanozymes and metabolic
+                                dysfunction. Developed a report of findings and presented the results at monthly
+                                Nanozyme group meetings.</li>
+                            <li>Researched computational predictive modelling algorithms being used to design nanozymes
+                                and identified strategies to develop novel approaches and applications for nanozyme
+                                design.</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Job 4 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">May 2023 - Aug 2023</div>
+                    <div class="timeline-content">
+                        <h3>Graduate Research Assistant</h3>
+                        <h4>University of North Dakota</h4>
+                        <ul>
+                            <li>Conducted In silico sample preparation and handling of RNA-seq brain and colon samples.
+                            </li>
+                            <li>Conducted a literature search of previous research associated with probiotics
+                                intervention in mice, particularly linked to neurodegenerative diseases.</li>
+                            <li>Performed RNA sequence data quality control, sequence analysis, and differential
+                                expression analysis of telencephalon and hippocampus samples from mice, comparing wild
+                                type versus an Alzheimer's disease mouse model, AppNL-G-F.</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Job 5 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">Sept 2021 - Dec 2021</div>
+                    <div class="timeline-content">
+                        <h3>Fellowship Intern</h3>
+                        <h4>Fellowship.AI</h4>
+                        <ul>
+                            <li>Cleaned and structured large-scale medical imaging datasets for predictive modeling.
+                            </li>
+                            <li>Implemented ResNet50 and DenseNet121 deep learning architectures for implant detection,
+                                achieving 77% validation accuracy.</li>
+                            <li>Presented progress reports to the executive leadership and contributed to the final
+                                project documentation.</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Job 6 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">Sept 2019 - Oct 2019</div>
+                    <div class="timeline-content">
+                        <h3>Graduate Student Researcher</h3>
+                        <h4>ICIPE / UVRI</h4>
+                        <ul>
+                            <li>Collated publicly available sequence data from recent MVD & RVF outbreaks in Uganda.
+                            </li>
+                            <li>Utilized genetic diversity & divergence measures to investigate whether recent MVD
+                                outbreaks are due to continued transmission via survivors or a fresh outbreak from
+                                natural hosts.</li>
+                            <li>Determined the level of phylogenetic linkage of select MVD outbreaks to distinguish
+                                zoonotic spillover events from outbreaks caused by continued transmission via survivors.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Job 7 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">Apr 2018 - July 2018</div>
+                    <div class="timeline-content">
+                        <h3>Laboratory Intern</h3>
+                        <h4>Kenya Medical Research Institute</h4>
+                        <ul>
+                            <li>Detected point mutations in Plasmodium falciparum using nested conventional PCR to
+                                identify drug resistance markers.</li>
+                            <li>Diagnosed Wuchereria bancrofti and Schistosoma mansoni using light microscopy and
+                                Kato-Katz diagnostic techniques.</li>
+                            <li>Monitored HIV-infected patient samples, performing baseline CD4 counts using FACSCalibur
+                                and FACSCount flow cytometers.</li>
+                            <li>Cultured Leishmania parasites and performed vector infection studies in sand flies.</li>
+                            <li>Supported malaria parasite cultivation and microscopy for diagnostic and experimental
+                                purposes.</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Job 8 -->
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">May 2016 - Aug 2018</div>
+                    <div class="timeline-content">
+                        <h3>Laboratory Intern</h3>
+                        <h4>Kenya Plant Health Inspectorate Services</h4>
+                        <ul>
+                            <li>Characterized quarantine plant pathogens using conventional and real-time PCR assays.
+                            </li>
+                            <li>Diagnosed Maize Lethal Necrosis Disease (MLND) via real-time PCR.</li>
+                            <li>Performed NCM-ELISA diagnostics for Ralstonia solanacearum in potato samples.</li>
+                            <li>Conducted entomological classification and identification of quarantine pests.</li>
+                            <li>Supported export certification and phytosanitary inspections.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="education" id="education" style="padding: 6rem 0; background-color: rgba(17, 34, 64, 0.3);">
+        <div class="container">
+            <h2 class="section-title">Education</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">Expected 2026</div>
+                    <div class="timeline-content">
+                        <h3>PhD in Biology</h3>
+                        <h4>University of North Dakota</h4>
+                        <p>Thesis: Integrating Neuro-Vascular-Inflammatory Systems and Cell Vulnerability in Alzheimer’s
+                            Disease. GPA: 4.0</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">2022</div>
+                    <div class="timeline-content">
+                        <h3>MSc in Bioinformatics</h3>
+                        <h4>Pwani University</h4>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-date">2017</div>
+                    <div class="timeline-content">
+                        <h3>BSc in Biotechnology</h3>
+                        <h4>Jomo Kenyatta University of Agriculture and Technology</h4>
+                        <p>Second Class Honors (Upper Division)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="projects" id="projects">
+        <div class="container">
+            <h2 class="section-title">Research & Projects</h2>
+            <div class="projects-grid">
+                <!-- Project 1 -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <div class="img-placeholder-small"
+                            style="background: linear-gradient(45deg, #112240, #64ffda);"></div>
+                    </div>
+                    <div class="project-info">
+                        <h3>Retinal Image Analysis</h3>
+                        <p>Developed an image-analysis workflow using ROI-based preprocessing and Trainable Weka
+                            segmentation to quantify GFAP-positive astrocytes in Alzheimer's disease models.</p>
+                        <div class="tags">
+                            <span>Python</span>
+                            <span>Fiji/ImageJ</span>
+                            <span>Machine Learning</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project 2 -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <div class="img-placeholder-small"
+                            style="background: linear-gradient(45deg, #112240, #8892b0);"></div>
+                    </div>
+                    <div class="project-info">
+                        <h3>Nanoparticle Segmentation</h3>
+                        <p>Created a pipeline for nanoparticle morphometric quantification using pixel-based
+                            classification and Python-based image analysis.</p>
+                        <div class="tags">
+                            <span>Python</span>
+                            <span>Weka Segmentation</span>
+                            <span>Data Analysis</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project 3 -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <div class="img-placeholder-small"
+                            style="background: linear-gradient(45deg, #112240, #ccd6f6);"></div>
+                    </div>
+                    <div class="project-info">
+                        <h3>RNA-Seq Analysis</h3>
+                        <p>Performed RNA sequence data quality control and differential expression analysis of
+                            telencephalon and hippocampus samples in AD mouse models.</p>
+                        <div class="tags">
+                            <span>R</span>
+                            <span>Bioinformatics</span>
+                            <span>RNA-seq</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="skills" id="skills">
+        <div class="container">
+            <h2 class="section-title">Technical Skills</h2>
+            <div class="skills-content">
+                <div class="skill-category">
+                    <h3>Programming & Data</h3>
+                    <div class="skill-tags">
+                        <span>Python (NumPy, Pandas, Scikit-Learn)</span>
+                        <span>R Programming</span>
+                        <span>Bash Scripting</span>
+                        <span>Machine Learning</span>
+                        <span>SQL</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Bioinformatics & Imaging</h3>
+                    <div class="skill-tags">
+                        <span>Fiji/ImageJ</span>
+                        <span>Ilastik</span>
+                        <span>Trainable Weka</span>
+                        <span>NGS Analysis</span>
+                        <span>Phylogenetics</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Lab & Tools</h3>
+                    <div class="skill-tags">
+                        <span>PCR/qPCR</span>
+                        <span>Immunolabelling</span>
+                        <span>Git/GitHub</span>
+                        <span>Linux/HPC</span>
+                        <span>Docker</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="publications" id="publications" style="padding: 6rem 0; background-color: rgba(17, 34, 64, 0.3);">
+        <div class="container">
+            <h2 class="section-title">Publications & Manuscripts</h2>
+            <div class="timeline-content" style="background: var(--bg-card); padding: 2rem; border-radius: 8px;">
+
+                <h3 style="color: var(--primary); margin-bottom: 1rem; font-size: 1.3rem;">Publications</h3>
+                <ul style="list-style: none; margin-bottom: 2rem;">
+                    <li>
+                        <strong>Kola, Henrick Aduda (2022).</strong> Evaluate viral hemorrhagic fever outbreaks in
+                        Uganda to distinguish continued human-to-human transmission via survivors from zoonotic
+                        spillover events (2000–2019). <em>MSc Thesis, Pwani University</em>.
+                    </li>
+                </ul>
+
+                <h3 style="color: var(--primary); margin-bottom: 1rem; font-size: 1.3rem;">Manuscript in Review</h3>
+                <ul style="list-style: none; margin-bottom: 2rem;">
+                    <li>
+                        <strong>Mughe, H. C., Kola, H. A., Ersan, M. S., Darland, D. C., & Zhao, J. X. (2025).</strong>
+                        Nanozymes: Promising frontiers in detection and nanoremediation of environmental pollutants.
+                        <em>Energy & Environmental Sustainability</em>. (Submitted).
+                    </li>
+                </ul>
+
+                <h3 style="color: var(--primary); margin-bottom: 1rem; font-size: 1.3rem;">Manuscript in Preparation
+                </h3>
+                <ul style="list-style: none;">
+                    <li>
+                        <strong>Kola, H. A., Rosenberg, L. N., Martinelli, J. C., Combs, C. K., & Darland, D.
+                            C.</strong> Retinal vasculature alterations in Alzheimer’s disease. <em>Alzheimer’s &
+                            Dementia</em>.
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <p class="contact-text">I'm currently open to new opportunities and collaborations. Whether you have a
+                question or just want to say hi, I'll try my best to get back to you!</p>
+            <a href="mailto:henrick.kola@und.edu" class="btn btn-primary big-btn">Say Hello</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Henrick Aduda Kola. All rights reserved.</p>
+            <p class="credits">Built with <i class="fas fa-heart"></i> and code.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

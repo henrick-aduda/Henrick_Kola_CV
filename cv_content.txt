@@ -1,0 +1,284 @@
+Last updated in Nov 2025
+Henrick Aduda Kola
+Starcher Hall Room 101, 10 Cornell St Stop 9019, Grand Forks, ND 58202-9019 | henrick.kola@und.edu
+(701) 410-7002 | linkedin.com/in/henrick-kola | github.com/henrick-aduda
+Professional Summary & Research Interests
+Dynamic and detail-oriented Graduate Teaching Assistant and PhD Candidate at the University of North Dakota with a 
+strong background in bioinformatics, neurovascular biology, and computational image analysis. Experienced in RNA-seq 
+data processing, vascular morphometrics, and machine learning applications in biomedical imaging. Skilled in data and 
+image analysis approaches utilizing Python, R and bash scripting and FIJI with demonstrated success in research design, 
+mentoring, and scientific communication. Currently pursuing doctoral research focused on integrating neurovascular and 
+inflammatory systems in Alzheimer’s disease pathophysiology.
+Education
+University of North Dakota, PhD in Biology – Grand Forks, ND, USA Aug 2022 – Present
+• Thesis: Integrating Neuro-Vascular-Inflammatory Systems and Cell Vulnerability in Alzheimer’s Disease Etiology and 
+Progression
+• Coursework: Scientific Writing, Advanced Imaging, Bioinformatics, Research Design, and Statistical Analysis
+• Cum GPA: 4.0
+• Expected graduation date: August 2026
+University of North Dakota, Graduate certificate in Communicating Science – Online May 2023 – May 2025
+Modules
+- Principles of Professional Communication (3cr)
+- Persuasion & Persuasive (3cr)
+- Science Communication (3cr)
+Pwani University, MSc in Bioinformatics – Kilifi, Kenya Oct 2018 – May 2022
+• Thesis: Evaluate Viral Hemorrhagic Fever Outbreaks in Uganda to Distinguish Continued Human-to-Human Transmission via 
+Survivors from Zoonotic Spillover Events (2000-2019). Successfully defended and passed thesis examination
+Jomo Kenyatta University of Agriculture and Technology , BSc in Biotechnology – 
+Nairobi, Kenya
+Sept 2013 – Nov 2017
+• Honors: Second Class Honors (Upper Division)
+• GPA: 3.35/4
+Professional Experiences
+Graduate Teaching Assistant, University of North Dakota – Grand Forks, ND, USA August 2022 – Present 
+(academic-year only)
+• Assisted in instruction for Physiology of Organs and Systems, Histology, Cell Biology, Developmental Biology, and 
+Introduction to Biology (courses for Majors and non-Majors)
+• Prepared laboratory equipment and materials; guided students through physiological experiments and data interpretation.
+• Graded laboratory assignments, providing constructive feedback to enhance analytical and critical thinking skills.
+• Facilitated active learning assignments founded in primary literature, including support for development of and assesment 
+for student presentations on course-based projects.
+Graduate Research Assistant, University of North Dakota – Grand Forks, ND, USA May 2025 – Aug 2025
+Nanoparticle TEM segmentation and Nanoremediation project
+• Developed a transmission electron microscopy (TEM)-based analysis pipeline to conduct nanoparticle morphometric 
+quantification, incorporating pixel-based classification using Trainable Weka Segmentation and Python-based image 
+analysis of size, shape, and eccentricity metrics. This pipeline has been used to quantify differences across nanomaterials 
+synthesis approaches with distinct compositions. The data generated from the novel approach that I developed are 
+currently part of two manuscripts in preparation.
+• Collaborated on a research project titled, “Nanozymes: Promising Frontiers in Detection and Nanoremediation of 
+Environmental Pollutants”. For this work, I conducted the primary literature meta-analysis; wrote the “Computational 
+Approaches” section on nanozyme design for environmental remediation, detailing applications of Density Functional 
+Theory, machine learning, and deep learning in catalytic optimization, and designed the publication’s graphical abstract 
+illustrating experimental and computational integration. I am the 2nd author on this manuscript that is currently in review.
+Retinal Image Analysis
+• Completed Advanced Topics in Biomedical Sciences Imaging course, where my class project focused on quantitative 
+analysis of astrocyte reactivity in Alzheimer’s disease models. I developed an image-analysis workflow using ROI-based 
+preprocessing, noise reduction, and Trainable Weka segmentation to quantify GFAP-positive astrocytes in AppNL-G-F mouse 
+hippocampal tissue. The project demonstrated elevated GFAP expression in AD mice and illustrated how computational 
+imaging can reveal neuroinflammatory signatures relevant to disease progression.
+• Performed mouse retina microdissection and prepared retinal whole mounts for immunolabelling to detect neural, glial 
+and vascular cell populations in Wild-type and AD mice.
+• Processed images in Fiji/ImageJ, which included noise subtraction, background correction, brightness/contrast adjustment, 
+and channel splitting. I applied Ilastik pixel-classification segmentation and refined the resulting masks by removing 
+artifacts in Fiji.
+• Conducted quantitative analyses including Sholl-based branching measurements, branch-point detection from binarized 
+masks, and tortuosity quantification using Python packages (scikit-image, skan, NumPy).
+• Calculated vessel density by merging ROI polygons into a unified tissue mask. Then, generated thresholded vessel images 
+and computed vessel density from calibrated vessel-area measurements. Verified mask accuracy through quality-control 
+overlays in Fiji and Python.
+Graduate Research Assistant, University of North Dakota – Grand Forks, ND, USA May 2024 – Aug 2024
+• Performed a bioinformatics database search for nanozymes developed for use in detecting or assessing metabolic disorders 
+(GEO database).
+• Conducted extensive literature search associated with nanozymes and metabolic dysfunction. Developed a report of 
+findings and presented the results at our monthly Nanozyme group meetings.
+• Researched computational predictive modelling algorithms being used to design nanozymes and identified strategies to 
+develop novel approaches and applications for nanozyme design.
+Graduate Research Assistant, University of North Dakota – Grand Forks, ND, USA May 2023 – Aug 2023
+• Conducted In silico sample preparation and handling of RNA-seq brain and colon samples.
+• Conducted a literature search of previous research associated with probiotics intervention in mice, particularly linked to 
+neurodegenerative diseases.
+• Performed RNA sequence data quality control, sequence analysis, and differential expression analysis of telencephalon 
+and hippocampus samples from mice, comparing wild type versus an Alzheimer’s disease mouse model, AppNL-G-F.
+Graduate Student Researcher , International Centre of Insect Physiology and Ecology 
+(ICIPE) – Nakiwogo Rd, Entebbe, Uganda
+Sept 2019 – Oct 2019
+MSc in Bioinformatics Program hosted at Uganda Virus Research Institute (UVRI)
+• Collated publicly available sequence data from recent MVD & RVF outbreaks in Uganda.
+• Utilized genetic diversity & divergence measures to investigate whether recent MVD outbreaks are due to continued 
+transmission via survivors or a fresh outbreak from natural hosts.
+• Determined the level of phylogenetic linkage of select MVD outbreaks to distinguish zoonotic spillover events from 
+outbreaks caused by continued transmission via survivors.
+Fellowship Intern, Fellowship.AI – Remote work Sept 2021 – Dec 2021
+• Cleaned and structured large-scale medical imaging datasets for predictive modeling.
+• Implemented ResNet50 and DenseNet121 deep learning architectures for implant detection, achieving 77 % validation 
+accuracy.
+• Presented progress reports to the executive leadership and contributed to the final project documentation.
+Laboratory Intern, Kenya Medical Research Institute – Mbagathi Rd, Nairobi, Kenya Apr 2018 – July 2018
+• Detected point mutations in Plasmodium falciparum using nested conventional PCR to identify drug resistance markers.
+• Diagnosed Wuchereria bancrofti and Schistosoma mansoni using a light microscopy and Kato-Katz diagnostic techniques.
+• Monitored HIV-infected patient samples, performing baseline CD4 counts using FACSCalibur and FACSCount flow 
+cytometers.
+• Cultured Leishmania parasites and performed vector infection studies in sand flies, including parasite cultivation, counting, 
+staining, and lesion measurements.
+• Supported malaria parasite cultivation and microscopy for diagnostic and experimental purposes, contributing to 
+infectious disease surveillance and drug resistance monitoring.
+Laboratory Intern, Kenya Plant Health Inspectorate Services – Karen, Nairobi, Kenya May 2016 – Aug 2018
+• Characterized quarantine plant pathogens using conventional and real-time PCR assays, contributing to national 
+agricultural biosecurity efforts.
+• Diagnosed Maize Lethal Necrosis Disease (MLND) via real-time PCR to support crop health surveillance and early 
+detection.
+• Performed NCM-ELISA diagnostics for Ralstonia solanacearum in potato samples to aid in bacterial wilt management.
+• Conducted entomological classification and identification of quarantine pests (including thrips and whiteflies) for pest 
+risk assessment and trade compliance.
+• Supported export certification and phytosanitary inspections, verifying consignments against international standards and 
+issuing phytosanitary certificates for compliant exporters.
+• Contributed to the development of harmonized, science-based phytosanitary measures, enhancing Kenya’s agricultural 
+trade reliability.
+Skills
+Programming & Scripting:  Python (NumPy, Pandas, Scikit-Learn), Bash scripting, R programming, machine learning 
+(supervised & unsupervised algorithms)
+Data Science & Computational Analysis: Data cleaning, feature selection, hyperparameter tuning, statistical modeling, 
+computational modeling, high-performance computing in Linux
+Bioinformatics: Biological database querying (NCBI), API-based data extraction, next-generation sequencing analysis, 
+phylogenetic and viral genomic analysis
+Image Analysis: Pixel-based segmentation (ilastik, Trainable Weka), advanced image analysis in Python (NumPy, Pandas, 
+Skan) and Fiji: Sholl analysis, Branch point analysis, tortuosity analysis and vessel density analysis
+Experimental Laboratory Skills: Retina microdissection and flat-mount preparation, PCR, Kato-Katz, immunolabelling 
+and fluorescent marker application
+Professional Skills:  Workflow design, analysis pipeline development, workload planning, mentorship, scientific 
+communication, technical writing
+Outreach, Mentorship, and Professional Experiences
+• Participated in the East Africa Network of Bioinformatics Training Residential Course (June 2019 – August 2019).
+• Attended the International Society for Computational Biology Conference (June 2020 – July 2020).
+• Oral presenter at the H3ABioNet-Fogarty Collaborative Research Seminar Series (July 2020).
+• Oral presenter at the H3AFRICA Consortium Meeting (September 2020).
+• Mentored an undergraduate Bioinformatics Strategic Intern (Trevor Mugoya) at UVRI, providing training in Bash 
+scripting, NCBI database use, phylogenetic and viral genomic analysis, and essential professional skills including effective 
+communication, scientific writing, and research reproducibility (May - Oct 2019).
+• Served as co-facilitator in the Teaching and Research in Natural Sciences For Development in Africa (TREND): Python 
+beginner virtual workshop (July 2022).
+• Acted as co-facilitator during Bionformatic Hub of Kenya Initiatives outreach programs and monthly seminar series (July 
+2022).
+• Member of the International Society for Computational Biology (November 2022 – Present).
+• Member of the Society for Developmental Biology (November 2022 – Present).
+• Oral Presenter, 114th Annual Meeting of the North Dakota Academy of Science (April 14–15, 2023).
+• Mentored undergraduate students in Neuroscience and Nutrition Seminar Course (BIOL491/503), guiding research topic 
+selection, presentation development, and discussion facilitation (Spring 2023).
+• Participant in the ‘Mentors Helping Mentors’ workshop series by UND Graduate School (January – February 2024).
+• Poster presenter at the Canadian Society for Molecular Biosciences meeting in Winnipeg, Canada (May 6–8, 2024).
+• Attendee at the International Society for Computational Biology (ISCB) Virtual Conference (July 12–16, 2024).
+• Bridge Peer Mentor at UND International Center – mentored a graduate student (Arhita Das) in cultural integration, career 
+development, and social adaptation (August 2024 – May 2025).
+• Oral Presenter, 115th Annual Meeting of the North Dakota Academy of Science (March 15–16, 2024).
+• Judge at the 2024 North Dakota State Science and Engineering Fair, evaluating Middle and High School projects (April 
+5, 2024).
+• Judge at the Science Fair, Sacred Heart School, East Grand Forks, MN : evaluated 7th, 9th, and 10th grade projects (January 
+14, 2025).
+• Oral Presenter, 116th Annual Meeting of the North Dakota Academy of Science (April 4–5, 2025).
+• Provided hands-on mentorship to undergraduate researchers in vascular image preprocessing, processing, and 
+computational analysis using Fiji; cultivated independent research skills, data-driven reasoning, and professional scientific 
+communication aligned with best practices in neurovascular imaging research (efforts ongoing).
+• Engaged with regional internship program participants at the InternGF Summer Cohort Closing Ceremony and 
+Networking Dinner, fostering university–industry connections (Grand Forks, ND; August 7, 2025).
+• Peer-mentored graduate student (Herbert Che Mughe) in scientific writing and editing, figure design and data 
+visualization, and transmission electron microscopy (TEM) image analysis (May - October 2025).
+Leadership and Service
+Vice President, Biology Graduate Student Association – Grand Forks, ND, USA Aug 2025 – Present
+• Coordinated departmental and student engagement activities, including the annual Biology Graduate Student Welcome 
+Picnic, fostering faculty–student interaction.
+• Served on the organizing committee for departmental office clean-up and workspace organization initiatives.
+• Contributed to efforts to design and post graduate student biography flyers to enhance departmental visibility and 
+collaboration.
+Organizing Secretariat, Bioinformatics Hub of Kenya Initiative – ICIPE, Nairobi, Kenya Aug 2025 – Present
+• Planned, facilitated, and managed public communications for scientific trainings, seminars, and monthly graduate-student 
+talks, expanding national bioinformatics outreach and capacity-building efforts
+• Launched and organized an outreach event as Organizing Secretary for the Bioinformatics Hub of Kenya Initiative, 
+bringing together graduate students to share their career journeys and inspire undergraduates at the Technical University 
+of Kenya; nearly 100 students attended, demonstrating strong engagement and impact. "
+Honors and Awards
+1. East African Network for Bioinformatics Training (EANBiT) Scholarship Fellowship Award
+October 2018 – October 2020
+2. Full Tuition Waiver and Teaching Assistant Stipend, University of North Dakota
+August 2022 – Present (academic year only)
+3. Best Poster Award, 8th Annual Epigenetics and Epigenomics Symposium, University of North Dakota
+May 18–19, 2023
+4. Barbara Ann Earwick Summer Research Award, University of North Dakota
+May 2023
+5. Research Award, Academic Programs and Student Awards Committee, University of North Dakota
+Fall 2024
+Research Training and Professional Certifications
+Coursera/IBM, Tools for Data Science Orientation – Online
+Modules
+Sept 07, 2021
+• Overview of Data Science Tools — Introduced open-source, cloud, and commercial tools used by data scientists, including 
+core categories of software and platforms.
+• Languages of Data Science — Covered Python, R, SQL, and additional languages (Scala, Java, C++, JavaScript, Julia) and 
+criteria for choosing tools for data work.
+• Packages, APIs, Data Sets, and Models — Learned common data science libraries, REST APIs, open datasets, and how 
+machine-learning models are used to make predictions.
+• Jupyter Notebooks and JupyterLab — Worked with Jupyter environments, kernels, notebook architecture, and cloud-based 
+Jupyter platforms.
+• RStudio & GitHub — Introduction to R and RStudio for visualization; learned Git/GitHub fundamentals including 
+repositories, commits, branches, pull requests, and version control workflows.
+• IBM Watson Studio — Explored Watson Studio, created cloud projects, built notebooks, tested kernels, and connected to 
+GitHub for publishing.
+Coursera/IBM, Data Science Orientation – Online
+Modules
+July 04, 2021
+• Defining Data Science and What Data Scientists Do — Fundamentals of data science, data-driven problem-solving, daily 
+activities of data scientists, required skills, and key algorithms/data formats.
+• Data Science Topics — Big data fundamentals, societal and business applications, cloud-based data handling, data mining 
+basics, and introductory machine learning & deep learning concepts.
+• Applications and Careers in Data Science — Real-world data science use cases, how organizations leverage data for 
+decisions, employer-valued skills, and insights into data science career pathways.
+• Data Literacy for Data Science — Core understanding of how data is generated, stored, accessed, and processed within 
+repositories and large-scale data environments.
+Coursera/IBM, Introduction to Data Analytics – Online
+Modules
+January 9, 2021
+• What is Data Analytics — Types of analytics, analysis workflow, data roles, and the modern data ecosystem.
+• The Data Ecosystem — Data structures, repositories, ETL basics, and big-data tools (Hadoop, Spark, Hive).
+• Gathering & Wrangling Data — Data sourcing, importing, cleaning, and preparation techniques.
+• Data Mining & Visualizing Data — Statistical analysis, pattern detection, and data visualization fundamentals.
+• Career Opportunities — Data-focused career paths, required skills, and practical data-analysis tasks.
+CITI Program – Initial Biosafety Training , IBC Principal Investigators and Staff, 
+University of North Dakota – Grand Forks, ND, USA
+Modules
+Jan, 2025
+• NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Molecules — Jan 15, 2025
+• Human Gene Transfer Research — Jan 15, 2025
+• Dual Use Research of Concern (DURC) — Jan 16, 2025
+• Animal Biosafety — Jan 15, 2025
+• Biohazard Risk Assessment — Jan 13, 2025
+• Medical Surveillance — Jan 15, 2025
+• Risk Management: Personal Protective Equipment — Jan 15, 2025
+• Risk Management: Laboratory Design — Jan 15, 2025
+• Risk Management: Emergency and Spill Response — Jan 15, 2025
+• Risk Management: Work Practices — Jan 16, 2025
+• Laboratory-Acquired Infections — Jan 13, 2025
+• Work Safely with Sharp Instruments — Jan 15, 2025
+• Centrifuge Precautions — Jan 15, 2025
+• Disinfection and Sterilization — Jan 16, 2025
+• Safe Sharps Devices — Jan 16, 2025
+• Risk Management: Engineering Controls — Jan 16, 2025
+Institutional Compliance and Safety Training, University of North Dakota – Grand Forks, 
+ND, USA
+Modules
+August 2022 - Present
+• Data Privacy and Security (HIPAA Overview) — July 2023
+• Data Privacy and Confidentiality Training — October 2022
+• Civil Rights & Title IX Compliance Training — October 2025
+• Nondiscrimination and Title IX (In-Person) — September 2024
+• Sexual Violence Awareness for Employees (Campus SaVE Act) — August 2022
+• Discrimination Awareness in the Workplace — August 2022
+• Annual Notification of University Policies (FY 2023–FY 2025) — April 2023–October 2025
+• Run Hide Fight – Active Threat Response Training — May 2024
+• Back Injury and Lifting Safety (Laboratory and Custodial Versions) — 2023–2025
+• Slips, Trips, and Falls Prevention — 2023–2025
+• Employee Safety Orientation — August 2022
+• Bloodborne Pathogen Training for Laboratory Personnel — Oct 27, 2025
+Verified International Academic Qualifications, World Education Services – Remote Feb 2022
+Formal International Credential Verification and Evaluation for Bachelor of Science in Biotechnology.
+Professional References/Mentors
+1. Diane Darland (Thesis Advisor)
+Chester Fritz Distinguished Professor, Biology
+Starcher Hall Room 113,
+10 Cornell St Stop 9019,
+Grand Forks, ND 58202-9019.
+Email: diane.darland@und.edu
+2. Colin Combs (Thesis Advisory Committee Member/Collaborator)
+Department Chair, Sr. Assoc. Dean / Assoc AVPR, Research Affairs
+School of Medicine & Health Sciences Room W316,
+1301 North Columbia Road Stop 9037,
+Grand Forks, ND 58202-9037.
+Email: colin.combs@und.edu
+Publications
+• Kola, Henrick Aduda. Evaluate viral hemorrhagic fever outbreaks in Uganda to distinguish continued human-to-human 
+transmission via survivors from zoonotic spillover events (2000–2019). Pwani University, Thesis for Masters of Science degree 
+in Bioinformatics, Submitted to Pwani University Library 26 Aug 2021; Degree conferred in May 2022
+Manuscript in Review
+• Mughe, H. C., Kola, H. A., Ersan, M. S., Darland, D. C., & Zhao, J. X. (2025). Nanozymes: Promising frontiers in detection and 
+nanoremediation of environmental pollutants. Energy & Environmental Sustainability. Manuscript submitted for publication.
+Manuscript in Preparation
+• Kola, H. A., Rosenberg, L. N., Martinelli, J. C., Combs, C. K., & Darland, D. C. (In preparation). Retinal vasculature alterations 
+in Alzheimer’s disease. Alzheimer’s & Dementia.
