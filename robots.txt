@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://henrick-aduda.github.io/Henrick_Kola_CV/sitemap.xml
